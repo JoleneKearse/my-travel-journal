@@ -5,7 +5,8 @@
   --clr-purple-900: #49306B;
   --clr-blue-400: #38AFBC;
 
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Alegreya', serif;
+  /* font-family: 'Caprasimo', cursive; */
   line-height: 1.2;
   font-weight: 400;
 
