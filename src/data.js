@@ -5,6 +5,7 @@ export default [
       googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
       year: "2005-2018",
       duration: "about 11 years",
-      description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+      description: "A Special Economic Zone in China's south, this city has grown from a sleepy fishing village to a metropolis of @ 20 million in only forty years. Come here to meet people from all over China (as it's a migrant city) and many expats as well.",
+      personal: "I lived here for many years throughout my career as an English as a Foreign Language Teacher and real estate agent.",
   }
 ]
