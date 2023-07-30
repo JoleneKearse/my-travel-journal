@@ -1,18 +1,13 @@
 :root {
+  /* ---------- CUSTOM PROPERTIES ---------- */
   --clr-neutral-100: #F5ECE0;
   --clr-green-300: #5A875B;
   --clr-green-400: #416242;
+  --clr-purple-700: #624191;
   --clr-purple-900: #49306B;
   --clr-blue-400: #38AFBC;
 
-  font-family: 'Alegreya', serif;
-  /* font-family: 'Caprasimo', cursive; */
-  line-height: 1.2;
-  font-weight: 400;
-
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: var(--clr-neutral-100);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -21,17 +16,147 @@
   -webkit-text-size-adjust: 100%;
 }
 
+/* ---------- RESET ---------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
 body {
   margin: 0;
+  padding: 0;
+  font-family: 'Alegreya', serif;
+  line-height: 1.2;
+  font-weight: 400;
+  color: var(--clr-purple-900);
+  background-color: var(--clr-neutral-100);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ---------- TYPOGRAPHY ---------- */
+
+.site-title {
+  font-size: clamp(1rem, 0.8333rem + 0.6667vw, 1.5rem);
+}
+
+.location-title {
+  font-family: 'Caprasimo', cursive;
+  font-size: clamp(1.5rem, 1.1667rem + 1.3333vw, 2.5rem);
+  margin: 0;
+}
+
+.place-details-location {
+  color: var(--clr-green-400);
+}
+
+.place-details-location > .location {
+  font-weight: 600;
+}
+
+.place-details-location-link {
+  color: var(--clr-green-300);
+  cursor: pointer;
+}
+
+.place-details-location-link:hover,
+.place-details-location-link:focus {
+  color: var(--clr-green-400);
+}
+
+.place-details-itinerary-details > p {
+  font-size: clamp(1.1rem, 0.9667rem + 0.5333vw, 1.5rem);
+  font-weight: 600;
+}
+
+/* ---------- LAYOUT ---------- */
+
+nav {
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  padding: 1em 0;
+  background-color: var(--clr-purple-900);
+  color: var(--clr-neutral-100)
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+main {
+  width: 70%;
+  margin-inline: auto;
+  padding: 3em 0;
 }
 
+article {
+  display: grid;
+  grid-template: "img place-details place-details place-details"; 
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  margin-bottom: 3.5em;
+}
 
+article > .photo {
+  grid-area: img;
+  object-fit: cover;
+  border-radius: .5em;
+}
+
+article > .photo:hover {
+  transform: scale(1.1);
+}
+
+article > .place-details {
+  grid-area: place-details;
+}
+
+/* .place-details-info {
+  outline: 1px solid pink;
+}
+
+.place-details-location {
+  outline: 1px solid red;
+} */
+
+.place-details > div {
+  margin-bottom: 1em;
+}
+
+.place-details-location {
+  display: flex;
+  align-items: center;
+  gap: .5em;
+}
+
+.place-details-itinerary-details {
+  display: flex;
+  gap: 1em;
+}
+
+.personal-details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: .5em;
+}
+
+/* ---------- COMPONENTS ---------- */
+
+.logo {
+  width: 1.75em;
+}
+
+.icon {
+  width: 1.5em;
+}
