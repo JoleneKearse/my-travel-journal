@@ -99,8 +99,8 @@ main {
 
 article {
   display: grid;
-  grid-template: "img place-details place-details place-details"; 
-  grid-template-columns: repeat(4, 1fr);
+  grid-template: "img img place-details place-details place-details"; 
+  grid-template-columns: repeat(5, 1fr);
   justify-content: center;
   align-items: center;
   gap: 2em;
