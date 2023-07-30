@@ -6,14 +6,14 @@ import house from "/home.png"
 const Card = (props) => {
   return (
     <article>
-      <img src={props.travel.img} className="photo" alt="Shenzhen's beautiful skyline" />
+      <img src={props.travel.img} className="photo" alt="photo" />
 
       <div className="place-details">
         <div className="place-details-info">
           <div className="place-details-location">
             <img src={pin} className="icon" alt="" />
             <p className="location">{props.travel.location}</p>
-            <a href={props.travel.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="place-details-location-link">View on Google Maps</a>
+            <a href={props.travel.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="place-details-location-link">{props.travel.coordinates}</a>
           </div>
           <h2 className="location-title">{props.travel.title}</h2>
         </div>
