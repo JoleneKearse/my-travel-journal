@@ -7,6 +7,7 @@ const Card = (props) => {
   return (
     <article>
       <img src={props.travel.img} className="photo" alt="photo" />
+      <img src={props.travel.flag} className="flag" alt="" />
 
       <div className="place-details">
         <div className="place-details-info">

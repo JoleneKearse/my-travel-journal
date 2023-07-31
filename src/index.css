@@ -159,3 +159,13 @@ article > .place-details {
 .icon {
   width: 1.5em;
 }
+
+.photo {
+  position: relative;
+}
+
+.flag {
+  width: 2em;
+  position: absolute;
+  margin-left: -1.5em;
+}

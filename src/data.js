@@ -4,6 +4,7 @@ export default [
     translation: "제주",
     location: "South Korea",
     img: "/jeju.jpg",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/jeju+island,+south+korea/@33.56344322,126.55725737,-2.98794945a,248071.87252231d,35y,0h,0t,0r/data=CoMBGlkSUwolMHgzNTBjZTM1NDRjYzg0MDQ1OjB4NjZiYzM2ZDI5ODFlYmYzMRnnqtRHO7FAQCEzhc5rbKNfQCoYamVqdSBpc2xhbmQsIHNvdXRoIGtvcmVhGAIgASImCiQJScxNWJp1MkAR8Qgf2a4OMkAZTFH6lFp-W0Ah-8b6agZEW0A",
     coordinates: "33.38°N 126.53°E",
@@ -16,6 +17,7 @@ export default [
     title: "seaside beach",
     location: "South Korea",
     img: "/korean_beach.jpg",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Haseom+Island,+Buan-gun,+South+Korea/@35.6624203,126.4860136,16.81541788a,839.10600052d,35y,-323.98288142h,45t,0r/data=Co8BGmUSXwolMHgzNTcxMGY2YzNiMzAzNDIzOjB4YWI5YmYzYTY2MjdmMGI0MBlvWjowytRBQCFRWsnYGp9fQCokSGFzZW9tIElzbGFuZCwgQnVhbi1ndW4sIFNvdXRoIEtvcmVhGAIgASImCiQJE6mThpzVQUARdYiYaWDUQUAZ_WB4M6KfX0AhF_4SbtieX0A",
     coordinates: "35°N 126°E",
@@ -29,6 +31,7 @@ export default [
     translation: "고창",
     location: "South Korea",
     img: "/gochang.jpg",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Gochang+Dolmen+Site,+Jidong-gil,+Gochang-eup,+Gochang-gun,+Jeollabuk-do,+South+Korea/@35.4368895,126.656269,41.23642426a,841.7057866d,35y,0h,45t,0r/data=CsEBGpYBEo8BCiUweDM1NzE5ZjViMTA5YjQzNzE6MHg0YTNjZjY3ZjkzZTBhMTk2GZ87wf7rt0FAITsYsU8Aql9AKlRHb2NoYW5nIERvbG1lbiBTaXRlLCBKaWRvbmctZ2lsLCBHb2NoYW5nLWV1cCwgR29jaGFuZy1ndW4sIEplb2xsYWJ1ay1kbywgU291dGggS29yZWEYAiABIiYKJAlzJLWPQfJDQBFuJLWPQfJDwBlpgPo-ouFMQCFqgPo-ouFMwCgC",
     coordinates: "35°N 126°E",
@@ -42,6 +45,7 @@ export default [
     translation: "전주",
     location: "South Korea",
     img: "/jeonju.avif",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Jeonju-si,+Jeollabuk-do,+South+Korea/@35.81584782,127.11611566,28.01271797a,30193.92766386d,35y,0h,0t,0r/data=Co8BGmUSXwolMHgzNTcwMjM0MzAzMTZkODYzOjB4YzdiYzE3ZTA5MWMzNDI5YRlyCdFr_elBQCHa9LHMbMdfQCokSmVvbmp1LXNpLCBKZW9sbGFidWstZG8sIFNvdXRoIEtvcmVhGAIgASImCiQJ23kLvDA6QkARwneaBXfKQUAZ3Vf9hsXqX0AhzPgzEamUX0A",
     coordinates: "35°49′N 127°09′E",
@@ -55,6 +59,7 @@ export default [
     translation: "대전",
     location: "South Korea",
     img: "/daejeon.jpg",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Daejeon,+South+Korea/@36.70940078,127.40071551,177.43265021a,238466.22745356d,35y,360h,0t,0r/data=Cn8aVRJPCiUweDM1NjU0OGQ3YmE0YTY2MDE6MHhkMTk2ZDY5ZDk4OGFkM2I1GeKNzCN_K0JAITaCnhc42V9AKhREYWVqZW9uLCBTb3V0aCBLb3JlYRgCIAEiJgokCT6nEjCPMUJAEVuu84DGEUJAGbbwi5u83l9AIRpEfABDxl9A",
     coordinates: "36°21′00″N 127°23′06″E",
@@ -67,6 +72,7 @@ export default [
     translation: "익산",
     location: "South Korea",
     img: "/iksan.webp",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Iksan-si,+Jeollabuk-do,+South+Korea/@36.02004245,126.99556401,12.56614483a,60201.26090802d,35y,0h,0t,0r/data=Co4BGmQSXgolMHgzNTcwMTQ4MDhkMzk0MjRkOjB4ZWIxMDM4NTliODUyOGEzYxn02DtI9AJCQCEKod7nU79fQCojSWtzYW4tc2ksIEplb2xsYWJ1ay1kbywgU291dGggS29yZWEYAiABIiYKJAkcTzfyzvlKQBEApQTLv_FKQBneotzKyC78vyG_z75KLSv-vw",
     coordinates: "35°56′38″N 126°57′16″E",
@@ -82,6 +88,7 @@ export default [
     translation: "서울",
     location: "South Korea",
     img: "/seoul.jpg",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/seoul/@37.5648761,126.9741393,32.56456864a,58966.59135837d,35y,0h,0.0000045t,0r/data=CnAaRhJACiUweDM1N2NhMjAxMmQ1YzM5Y2Y6MHg3ZTExZWNhMTQwNWJmMjliGQu6GF6kxkJAIT54SIx5v19AKgVzZW91bBgCIAEiJgokCe9dH91OuEFAEQHxtMwXt0FAGakAUkSIql9AIQxDlGHCqV9A",
     coordinates: "37°33′36″N 126°59′24″E",
@@ -95,6 +102,7 @@ export default [
     translation: "인천",
     location: "South Korea",
     img: "/incheon.jpg",
+    flag: "/flag-south-korea.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Incheon,+South+Korea/@35.98263366,125.73111577,13.52323625a,963369.58883872d,35y,0h,0t,0r/data=Cn8aVRJPCiUweDM1Nzk2ZjI1OTYxMzgyNDc6MHg3ZDM3ZmQ5MDJjYjc2MTQyGYoON5ZmukJAIe57LxkirV9AKhRJbmNoZW9uLCBTb3V0aCBLb3JlYRgCIAEiJgokCSpaHrK03UJAETitaA7UskJAGW9KGiYmz19AIVRVn3KKrV9A",
     coordinates: "37°29′N 126°38′E",
@@ -104,23 +112,10 @@ export default [
       "Coming to this city after living for a spell in my hometown in Canada, felt so good! I had missed Asia's vibrant and enormous cities. I was reunited with my husband after a few month's absence. Having new cuisines available was so much fun, as well as staying in a 'Love Hotel!' 🤣",
   },
   {
-    title: "Ilkley",
-    location: "England",
-    img: "/ilkley.jpg",
-    googleMapsUrl:
-      "https://earth.google.com/web/search/Ilkley,+UK/@53.92016274,-1.82348157,147.7412015a,10961.10141687d,35y,0h,0t,0r/data=CnUaSxJFCiUweDQ4N2JlMmQ2MGYyNzhiMmQ6MHg0OWNhMDMwOWI2OWRmNmMwGfNzQ1N29kpAIT18mShCKv2_KgpJbGtsZXksIFVLGAIgASImCiQJ6VEUEJGMNkARD4wC2vwnNkAZkztQI7iYXEAh3jJgoCJ5XEA",
-    coordinates: "53.925°N 1.822°W",
-    year: "2008",
-    duration: "4 months",
-    description:
-      "A small town in Northern England that actually has higher property prices than London! I went hiking a lot, especially to the Ilkley Moor and struggled to drive on the left side of their excessively tiny roads.",
-    personal:
-      "While I got to see lots of nearby areas, my inability to get a working visa compelled me to move on.",
-  },
-  {
     title: "Leeds",
     location: "England",
     img: "/leeds.jpg",
+    flag: "/flag-england.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Leeds,+UK/@53.80596099,-1.53737701,32.36926101a,21961.09881464d,35y,0h,0t,0r/data=CnQaShJECiUweDQ4NzkzZTRhZGE2NGJkOTk6MHg1MWFkYmFmZDAyMTNkY2E5GTaMJyd_5kpAITiQP2IFyfi_KglMZWVkcywgVUsYAiABIiYKJAnk9cXJw-xKQBGR58oBKOFKQBltz9Djrs_3vyEGlP7YtVP7vw",
     coordinates: "53°47′51″N 01°32′37″W",
@@ -133,6 +128,7 @@ export default [
     title: "Blackpool",
     location: "England",
     img: "/blackpool.webp",
+    flag: "/flag-england.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/blackpool/@53.82541007,-3.02419034,12.17747346a,21971.59376388d,35y,0h,0t,0r/data=CnQaShJECiUweDQ4N2I0MTE3ZTk0MmQwMTc6MHhiNTJkYjIxNzkyMzJjMmM5GUHh_QKL6EpAIUbtfhXgSwjAKglibGFja3Bvb2wYAiABIiYKJAl2wSTSePpKQBHlUpS5jPdKQBnfhupIFRb9vyEKs9sjO_n9vw",
     coordinates: "53°48′51″N 3°03′01″W",
@@ -145,6 +141,7 @@ export default [
     title: "Harrogate",
     location: "England",
     img: "/harrogate.avif",
+    flag: "/flag-england.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Harrogate,+UK/@53.9940165,-1.52891475,124.23089306a,10932.97255908d,35y,0h,0.00015836t,0r/data=CncaTRJHCiQweDQ4Nzk0ZTIzNzE3NWJkMDE6MHgzYzA4NGZiYWFkZWE0ZmYZkNrEyf3-SkAhH0lJD0Or-L8qDUhhcnJvZ2F0ZSwgVUsYAiABIiYKJAk0NR_mpLhBQBGzg5c7nrdBQBkiSjt0a6pfQCFL5iYrlalfQA",
     coordinates: "53°59′31″N 01°32′16″W",
@@ -157,6 +154,7 @@ export default [
     title: "York",
     location: "England",
     img: "/york.png",
+    flag: "/flag-england.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/York,+UK/@53.95859682,-1.08059562,12.66506314a,10946.38084535d,35y,0h,0t,0r/data=CnMaSRJDCiUweDQ4NzhjMzQwZTE5ODY1ZjE6MHg0Nzc0YWI4OThhNTRlNGQxGRuastMP-0pAIZ8jTRe9LvG_KghZb3JrLCBVSxgCIAEiJgokCePfDss-A0tAEf2Mr303-0pAGcoJoNrjPfe_IZzdk8X6rvm_",
     coordinates: "53.960106°N 1.078017°W",
@@ -166,10 +164,26 @@ export default [
       "This was my favourite place to visit in England. The narrow, twisty streets are just like you'd imagine a medieval village to look and feel like. It has a still-standing city wall that you can walk around. And York Minster's architecture is amazing.",
   },
   {
+    title: "Ilkley",
+    location: "England",
+    img: "/ilkley.jpg",
+    flag: "/flag-england.png",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/Ilkley,+UK/@53.92016274,-1.82348157,147.7412015a,10961.10141687d,35y,0h,0t,0r/data=CnUaSxJFCiUweDQ4N2JlMmQ2MGYyNzhiMmQ6MHg0OWNhMDMwOWI2OWRmNmMwGfNzQ1N29kpAIT18mShCKv2_KgpJbGtsZXksIFVLGAIgASImCiQJ6VEUEJGMNkARD4wC2vwnNkAZkztQI7iYXEAh3jJgoCJ5XEA",
+    coordinates: "53.925°N 1.822°W",
+    year: "2008",
+    duration: "4 months",
+    description:
+      "A small town in Northern England that actually has higher property prices than London! I went hiking a lot, especially to the Ilkley Moor and struggled to drive on the left side of their excessively tiny roads.",
+    personal:
+      "While I got to see lots of nearby areas, my inability to get a working visa compelled me to move on.",
+  },
+  {
     title: "Guangzhou",
     translation: "广州",
     location: "China",
     img: "/guangzhou.webp",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Guangzhou,+Guangdong+Province,+China/@23.12561575,113.22784679,1.76320821a,136901.92697314d,35y,0h,0t,0r/data=Co4BGmQSXgokMHgzNDAyZjg5NWEzNWMyYmM3OjB4ZTU5ZTA3NWFkZWFlNDE1GSoSXWELITdAIbeXNEbrUFxAKiRHdWFuZ3pob3UsIEd1YW5nZG9uZyBQcm92aW5jZSwgQ2hpbmEYAiABIiYKJAmIwCBs7L8-QBHo6g7_xWI-QBm2CUzQlqZcQCEb04Uv3H9cQA",
     coordinates: "23°07′48″N 113°15′36″E",
@@ -183,6 +197,7 @@ export default [
     translation: "澳门",
     location: "Autonomous region of China",
     img: "/macau.jpg",
+    flag: "/flag-macau.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/macau/@22.16183201,113.57015267,6.51469553a,17230.38440428d,35y,0h,0t,0r/data=CnAaRhJACiUweDM0MDE3YWUwZTIzNWM4ZjM6MHhjNjdiZTMyY2I0ODVhY2Y2GVc-y_PgMjZAIVoLs9DOYlxAKgVtYWNhdRgCIAEiJgokCetkxKis_kpAEVLz9F649kpAGVF9Lya3FPC_Ifkkm699f_K_",
     coordinates: "22°10′N 113°33′E",
@@ -196,6 +211,7 @@ export default [
     translation: "深圳",
     location: "China",
     img: "/shenzhen.webp",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Shenzhen,+Guangdong+Province,+China/@22.55516007,114.05387751,83.76628774a,68799.3974141d,35y,0h,0t,0r/data=CigiJgokCXMktY9B8kNAEXEktY9B8kPAGSbWwrXPMkhAIVcVGWQ6yFDA",
     coordinates: "22°32′29″N 114°03′35″E",
@@ -211,6 +227,7 @@ export default [
     translation: "香港",
     location: "Hong Kong",
     img: "/hongkong.jpg",
+    flag: "/flag-hong-kong.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/hongkong/@22.35283158,114.13948866,193.41224911a,68997.52631225d,35y,0h,0t,0r/data=CnMaSRJDCiUweDM0MDNlMmVkYTMzMjk4MGY6MHhmMDhhYjNiYWRiZWFjOTdjGTn8f-a9UTZAIbtt8M_WilxAKghob25na29uZxgCIAEiJgokCecoaby_xTdAEeBesjmlOzZAGeOycDWe4VxAIQ6XkeGsdFxA",
     coordinates: "22°18′N 114°12′E",
@@ -224,6 +241,7 @@ export default [
     translation: "珠海",
     location: "China",
     img: "/zhuhai.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Zhuhai,+Guangdong+Province,+China/@22.16587392,113.39213037,-0.68192589a,137781.98214692d,35y,0h,0t,0r/data=CowBGmISXAolMHgzNDAxNjg4NTY2OWVhZmI1OjB4ZGYzMWUyNTIzYWVhYzYwNBk-TAwTV0U2QCFTOlj_52RcQCohWmh1aGFpLCBHdWFuZ2RvbmcgUHJvdmluY2UsIENoaW5hGAIgASImCiQJ80GtdL-0NkARW2SAKqNQNkAZUul7wCd3XEAh3FSJ_9A8XEA",
     coordinates: "22°16′18″N 113°34′37″E",
@@ -237,6 +255,7 @@ export default [
     translation: "中山",
     location: "China",
     img: "/zhongshan.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Zhongshan,+Guangdong+Province,+China/@22.51116017,113.40602934,25.44563674a,68747.56140537d,35y,0h,0t,0r/data=Co8BGmUSXwolMHgzNDAyMmQzN2ZjMjFkN2U1OjB4YjQ2Y2Q2OGFjYmJkMTdjORnd3-pKFYQ2QCE3GsBbIFlcQCokWmhvbmdzaGFuLCBHdWFuZ2RvbmcgUHJvdmluY2UsIENoaW5hGAIgASImCiQJxArOS_lfPkARECWueFACPkAZZScXxtrgXEAh3A72eX6mXEA",
     coordinates: "22°31′01″N 113°23′33″E",
@@ -252,6 +271,7 @@ export default [
     translation: "成都",
     location: "China",
     img: "/chengdu.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Chengdu,+Sichuan,+China/@30.65852864,104.07554912,493.43772659a,64036.30773344d,35y,0h,0t,0r/data=CoIBGlgSUgolMHgzNmVmYzUyMzAwNDQ3NzIxOjB4Yjk4NjUyY2UyZTI0MGUwMhnuT_Off5I-QCEOV72yQQRaQCoXQ2hlbmdkdSwgU2ljaHVhbiwgQ2hpbmEYAiABIiYKJAnjMngLuJU_QBFefmFJbNw-QBnaZdXTX4VeQCGGvYRopjdeQA",
     coordinates: "30°39′36″N 104°03′48″E",
@@ -265,6 +285,7 @@ export default [
     translation: "乐山",
     location: "China",
     img: "/leshan.jpeg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Leshan,+Sichuan,+China/@29.57951569,103.75895848,367.98735707a,32383.80820522d,35y,0h,0t,0r/data=CoEBGlcSUQolMHgzNmU4YTBkMDA4NjAxNjU5OjB4NDk3ZjliODNjMzY5MjQyYRkFB8WgXY09QCHeq1Ym_PBZQCoWTGVzaGFuLCBTaWNodWFuLCBDaGluYRgCIAEiJgokCaHG4OFf1z5AEUWlsVGceT5AGQKuLH1YGFpAIbU8HwNT8VlA",
     coordinates: "29°32′41″N 103°46′24″",
@@ -278,6 +299,7 @@ export default [
     translation: "黄石",
     location: "China",
     img: "/huangshi.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Huangshi,+Hubei,+China/@30.19276536,115.05739704,31.95114173a,64327.63992467d,35y,0h,0t,0r/data=CoEBGlcSUQolMHgzNDJlNTM5NWRjNzc2N2I3OjB4Mjc5Nzc5MDhhNTk1ZGJiNhn7EjtkFDM-QCEf9GxWfcJcQCoWSHVhbmdzaGksIEh1YmVpLCBDaGluYRgCIAEiJgokCVquVLnLcT9AEdDFANUrFT9AGWlTY0DOg1xAIVs8zjZfTVxA",
     coordinates: "30°12′46″N 115°05′04″E",
@@ -291,6 +313,7 @@ export default [
     translation: "上海",
     location: "China",
     img: "/shanghai.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Shanghai,+China/@31.22434809,121.47674348,17.15519709a,127304.07892927d,35y,0h,0t,0r/data=CnkaTxJJCiQweDM1YjI3MDQwYjFmNTNjMzM6MHgyOTUxMjk0MjNjMzY0YTEZonkAi_w6P0AhR8X_HVFeXkAqD1NoYW5naGFpLCBDaGluYRgCIAEiJgokCQ7468oYrD1AEXNOejyQfD1AGS4p1s5Y-llAIa9qHZzM5llA",
     coordinates: "31°13′43″N 121°28′29″E",
@@ -304,6 +327,7 @@ export default [
     translation: "北京",
     location: "China",
     img: "/beijing.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/beijing/@39.93887911,116.39745802,52.25191182a,114129.16024214d,35y,0h,0t,0r/data=CigiJgokCahMcGOBgzdAEeuL6sE1vDZAGUtHIZ5pdVxAIVqDjGHAJ1xA",
     coordinates: "39°54′24″N 116°23′51″E",
@@ -317,6 +341,7 @@ export default [
     translation: "阳朔",
     location: "China",
     img: "/yangshuo.webp",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Yangshuo,+Guilin,+Guangxi,+China/@24.84755717,110.45393173,274.14716039a,67538.49129523d,35y,0h,0t,0r/data=CosBGmESWwolMHgzNmE1YTU3ZTExOTU1MjY1OjB4NDcwYmU0NThhZWVlMDAwNRmCupIuR8c4QCGZDTLJyJ9bQCogWWFuZ3NodW8sIEd1aWxpbiwgR3Vhbmd4aSwgQ2hpbmEYAiABIiYKJAnInsklOwQ3QBGsBBvZaqA2QBlQLoW5riVbQCHtWL7G7v5aQA",
     coordinates: "24°47′N 110°30′E",
@@ -330,6 +355,7 @@ export default [
     translation: "三亚",
     location: "China",
     img: "/sanya.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Sanya,+Hainan,+China/@18.25891221,109.51858568,25.87720139a,70670.0306648d,35y,0h,0t,0r/data=Cn8aVRJPCiUweDMxNDU0Yjk3NDliNWE3ZmQ6MHgyYjVjOThkMjI4MjQyMTE3Gbll0YWiQDJAIfSmIhXGYFtAKhRTYW55YSwgSGFpbmFuLCBDaGluYRgCIAEiJgokCVNWoYYzCjlAEU4TIPaXpzhAGYuM5ihZsFtAISvvcEbBiVtA",
     coordinates: "18°15′12″N 109°30′13″E",
@@ -343,6 +369,7 @@ export default [
     translation: "安陆",
     location: "China",
     img: "/anlu.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Anlu,+Xiaogan,+Hubei,+China/@31.2642941,113.63421736,53.08509837a,63615.55546677d,35y,0h,0t,0r/data=CoYBGlwSVgolMHgzNDJiYmMxOTBjZGRjNjc3OjB4NzZhNzk2Nzk0NTUwNjczNRm3UhkQa0E_QCFRLLe0GmxcQCobQW5sdSwgWGlhb2dhbiwgSHViZWksIENoaW5hGAIgASImCiQJKS7f3i6LPkAR5EbVrIlcPkAZZDxoZKzKXEAheVJ0246tXEA",
     coordinates: "31°16′N 113°40′E",
@@ -356,6 +383,7 @@ export default [
     translation: "宜昌",
     location: "China",
     img: "/yichang.webp",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Yichang,+Hubei,+China/@30.70448643,111.29699909,125.33370229a,63990.47097388d,35y,0h,0t,0r/data=CoABGlYSUAolMHgzNjgzODUzNTkxZGQ5ZTJkOjB4NTM1NDdmZWY3YzNkZTMxMxlkiXN5GLE-QCGOVIRAU9JbQCoVWWljaGFuZywgSHViZWksIENoaW5hGAIgASImCiQJGcLK2mkhQUARVupSJVxrQEAZsjNysw4NYEAhCWa9zjYtX0A",
     coordinates: "30°41′31″N 111°17′13″E",
@@ -369,6 +397,7 @@ export default [
     translation: "黄冈",
     location: "China",
     img: "/huanggang.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Huanggang,+Hubei,+China/@30.45277688,114.9393062,20.02282099a,32077.13517664d,35y,0h,0t,0r/data=CoIBGlgSUgolMHgzNDJkMDUwZGEyYTYzOTY3OjB4ZjNjOWUwZDFhZGUxYjQ4ZRlrOHaaFnQ-QCHOa-wS1bdcQCoXSHVhbmdnYW5nLCBIdWJlaSwgQ2hpbmEYAiABIiYKJAlQA8v6y-I-QBFC77YbfoU-QBmjuhc4O_BbQCFxprzHyLVbQA",
     coordinates: "30°27′13″N 114°52′21″E",
@@ -382,6 +411,7 @@ export default [
     translation: "武汉",
     location: "China",
     img: "/wuhan.jpg",
+    flag: "/flag-china.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/wuhan/@30.56811634,114.30038817,12.17504694a,64076.15670928d,35y,0h,0t,0r/data=CnAaRhJACiUweDM0MmVhZWY4ZGQ4NWYyNmY6MHgzOWMyYzlhYzZjNTgyMjEwGVbh4By_lz5AIajGSzeJk1xAKgV3dWhhbhgCIAEiJgokCeMyeAu4lT9AEV5-YUls3D5AGdpl1dNfhV5AIYa9hGimN15A",
     coordinates: "30°35′36″N 114°18′17″E",
@@ -396,6 +426,7 @@ export default [
     title: "Dachau",
     location: "Germany",
     img: "/dachau.jpg",
+    flag: "/flag-germany.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Dachau+Concentration+Camp+Memorial+Site,+Alte+R%c3%b6merstra%c3%9fe,+Dachau,+Germany/@48.270124,11.4682724,474.63476984a,675.06413584d,35y,0h,45t,0r/data=CrkBGo4BEocBCiUweDQ3OWU3YThhYzgzOTAwYTk6MHgxNjc5NGU0NDE3YjlhNDA2Ga7uWGyTIkhAISY9Z2bB7yZAKkxEYWNoYXUgQ29uY2VudHJhdGlvbiBDYW1wIE1lbW9yaWFsIFNpdGUsIEFsdGUgUsO2bWVyc3RyYcOfZSwgRGFjaGF1LCBHZXJtYW55GAIgASImCiQJ5shjyisnSEARA6NXX9UdSEAZNMqT8lsbJ0AhNGIjwr6qJkAoAg",
     coordinates: "48°16′08″N 11°28′07″E",
@@ -409,6 +440,7 @@ export default [
     translation: "Innschbruck",
     location: "Austria",
     img: "/innsbruck.jpg",
+    flag: "/flag-austria.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Innsbruck,+Austria/@47.28545504,11.37879,905.92944706a,25238.40569637d,35y,0h,0t,0r/data=Cn0aUxJNCiUweDQ3OWQ2ZWNmZTFmOGNhNzM6MHg5ZDIwMWM3ZDI4MWQ5YjBkGb7WSo11okdAIWB4gILmziZAKhJJbm5zYnJ1Y2ssIEF1c3RyaWEYAiABIiYKJAkDJplzUI02QBHF89XdDMQ1QBm7UjUUqpNcQCExOKtrgR5cQA",
     coordinates: "47°16′06″N 11°23′36″E",
@@ -421,6 +453,7 @@ export default [
     title: "Neuschwanstein Castle",
     location: "Germany",
     img: "/neuschwanstein.jpg",
+    flag: "/flag-germany.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/Neuschwanstein+Castle,+Neuschwansteinstra%c3%9fe,+Schwangau,+Germany/@47.557574,10.7498004,961.74176939a,685.21342385d,35y,0h,45t,0r/data=CqwBGoEBEnsKJTB4NDc5Y2Y3Y2FjNDRlYTM1ZDoweGM4YTY4NjZiZDM5ZGJiYTMZyYy3lV7HR0AhMQ6J1uV_JUAqQE5ldXNjaHdhbnN0ZWluIENhc3RsZSwgTmV1c2Nod2Fuc3RlaW5zdHJhw59lLCBTY2h3YW5nYXUsIEdlcm1hbnkYAiABIiYKJAnhV_d9mtFHQBGjmZphs7lHQBncp2FrppMqQCEVmi8oiGIpQCgC",
     coordinates: "47°33′27″N 10°44′58″E",
@@ -433,6 +466,7 @@ export default [
     title: "Königssee",
     location: "Germany",
     img: "/konigssee.webp",
+    flag: "/flag-germany.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/K%c3%b6nigssee/@47.5445415,12.99041205,1496.88387427a,31384.25153212d,35y,0h,0.00000077t,0r/data=CigiJgokCQtB7MYhJEhAERf_k8mYIkhAGcLvG3b7-CZAIZGKslaH5iZA",
     coordinates: "47°33′N 12°58′E",
@@ -446,6 +480,7 @@ export default [
     translation: "München",
     location: "Germany",
     img: "/munich.webp",
+    flag: "/flag-germany.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/munich/@48.15491075,11.54183575,523.23533548a,49627.27218401d,35y,0h,0.00000004t,0r/data=CnAaRhJACiQweDQ3OWU3NWY5YTM4YzVmZDk6MHgxMGNiODRhN2RiMTk4N2QZXC4syUsRSEAhyNEcWfkpJ0AqBm11bmljaBgCIAEiJgokCS06KNUCykdAESptHaetx0dAGbA2JIy6jSVAIbbl7SARciVA",
     coordinates: "48°08′15″N 11°34′30″E",
@@ -460,6 +495,7 @@ export default [
     title: "Orlando",
     location: "USA",
     img: "/florida.jpg",
+    flag: "/flag-usa.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/orlando/@28.48117437,-81.34266509,29.32751863a,65408.08609926d,35y,0h,0t,0r/data=CnEaRxJBCiQweDg4ZTc3M2Q4ZmVjZGJjNzc6MHhhYzNiMjA2M2NhNWJmOWUZQLc8e9OJPEAhx8ScVkBYVMAqB29ybGFuZG8YAiABIiYKJAmOieuZdchFQBFXenlfYXlFQBlrbpvYC8FTwCHv9mWVZTZUwA",
     coordinates: "28°32′24″N 81°22′48″W",
@@ -472,6 +508,7 @@ export default [
     title: "Niagara Falls",
     location: "Canada",
     img: "/niagara.jpg",
+    flag: "/flag-canada.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/niagara+falls/@43.05393229,-79.08803458,179.22790986a,27187.85653861d,35y,0h,0t,0r/data=CngaThJICiUweDg5ZDM0NDVlZWM4MjRkYjk6MHg0NmQyYzU2MTU2YmRhMjg4GXBNcKB2i0VAIUoASLdvxVPAKg1uaWFnYXJhIGZhbGxzGAIgASImCiQJDXt_7puqPEARyvGvGl1LPEAZrBDoysA4VMAha6whqRtzVMA",
     coordinates: "43.0799°N 79.0747°W",
