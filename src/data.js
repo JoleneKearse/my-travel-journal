@@ -1,33 +1,5 @@
 export default [
   {
-    title: "Shenzhen",
-    translation: "深圳",
-    location: "China",
-    img: "/shenzhen.webp",
-    googleMapsUrl:
-      "https://earth.google.com/web/search/Shenzhen,+Guangdong+Province,+China/@22.55516007,114.05387751,83.76628774a,68799.3974141d,35y,0h,0t,0r/data=CigiJgokCXMktY9B8kNAEXEktY9B8kPAGSbWwrXPMkhAIVcVGWQ6yFDA",
-    coordinates: "22°32′29″N 114°03′35″E",
-    year: "2006-2018",
-    duration: "altogether about 12 years",
-    description:
-      "Shenzhen became my beloved Chinese hometown - I even moved back home after some travels! It was a great place to meet people from all over the world and from other areas in the mainland since it's a migrant city. What started out as a collection of small villages spawned into a metropolis of around 20 million (unoffically). I loved the small town feel of the Shekou neighbourhood, where all the expats knew each other. And how you could use the extensive public transportation system to reach the giant city with it's LED-lite skyscrappers with ease.",
-    personal:
-      "I lived here for many years throughout my career as an English as a Foreign Language Teacher and real estate agent.",
-  },
-  {
-    title: "Hong Kong",
-    translation: "香港",
-    location: "Hong Kong",
-    img: "/hongkong.jpg",
-    googleMapsUrl:
-      "https://earth.google.com/web/search/hongkong/@22.35283158,114.13948866,193.41224911a,68997.52631225d,35y,0h,0t,0r/data=CnMaSRJDCiUweDM0MDNlMmVkYTMzMjk4MGY6MHhmMDhhYjNiYWRiZWFjOTdjGTn8f-a9UTZAIbtt8M_WilxAKghob25na29uZxgCIAEiJgokCecoaby_xTdAEeBesjmlOzZAGeOycDWe4VxAIQ6XkeGsdFxA",
-    coordinates: "22°18′N 114°12′E",
-    year: "2006-2018",
-    duration: "many short 1-5 day trips over the years",
-    description:
-      "Yes, I called Hong Kong its own country! I visited it as a foreigner working in China, where I had to leave the country due to visa requirements. Everytime I crossed the border, I breeved a bref of fresh air! While I loved living in China, it was a relief to visit a city-state that was Westernized. I loved the pub culture, hanging out on the TST waterfront, taking the Star Ferry, and visiting Lantao Island.",
-  },
-  {
     title: "Iksan",
     translation: "익산",
     location: "South Korea",
@@ -73,7 +45,7 @@ export default [
     location: "South Korea",
     img: "/seoul.jpg",
     googleMapsUrl:
-      "https://earth.google.com/web/search/Seoul/@37.56481823,126.97416868,32.5759316a,59041.02689576d,35y,0h,0t,0r/data=CnAaRhJACiUweDM1N2NhMjAxMmQ1YzM5Y2Y6MHg3ZTExZWNhMTQwNWJmMjliGQu6GF6kxkJAIT54SIx5v19AKgVTZW91bBgCIAEiJgokCdVS9ZCNskJAES3mh6J2BEJAGRNCsODdDmBAITrCvADilV9AA",
+      "https://earth.google.com/web/search/seoul/@37.5648761,126.9741393,32.56456864a,58966.59135837d,35y,0h,0.0000045t,0r/data=CnAaRhJACiUweDM1N2NhMjAxMmQ1YzM5Y2Y6MHg3ZTExZWNhMTQwNWJmMjliGQu6GF6kxkJAIT54SIx5v19AKgVzZW91bBgCIAEiJgokCe9dH91OuEFAEQHxtMwXt0FAGakAUkSIql9AIQxDlGHCqV9A",
     coordinates: "37°33′36″N 126°59′24″E",
     year: "2009-2010",
     duration: "multiple 1-2 day visits after 1 week orientation",
@@ -111,7 +83,7 @@ export default [
     location: "South Korea",
     img: "/gochang.jpg",
     googleMapsUrl:
-      "https://earth.google.com/web/search/Gochang+Dolmen+Site,+Jidong-gil,+Gochang-eup,+Gochang-gun,+Jeollabuk-do,+South+Korea/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CigiJgokCX8O5EyVmEFAEXVY9lU1bEFAGe_wY4yl0V9AIeka62z8r19A",
+      "https://earth.google.com/web/search/Gochang+Dolmen+Site,+Jidong-gil,+Gochang-eup,+Gochang-gun,+Jeollabuk-do,+South+Korea/@35.4368895,126.656269,41.23642426a,841.7057866d,35y,0h,45t,0r/data=CsEBGpYBEo8BCiUweDM1NzE5ZjViMTA5YjQzNzE6MHg0YTNjZjY3ZjkzZTBhMTk2GZ87wf7rt0FAITsYsU8Aql9AKlRHb2NoYW5nIERvbG1lbiBTaXRlLCBKaWRvbmctZ2lsLCBHb2NoYW5nLWV1cCwgR29jaGFuZy1ndW4sIEplb2xsYWJ1ay1kbywgU291dGggS29yZWEYAiABIiYKJAlzJLWPQfJDQBFuJLWPQfJDwBlpgPo-ouFMQCFqgPo-ouFMwCgC",
     coordinates: "35°N 126°E",
     year: "2010",
     duration: "day trip",
@@ -207,6 +179,34 @@ export default [
       "Simply the most exotic place I've ever been! This former Portugeuse colony has gorgeous buildings, tiled pavements, and street names mixing Cantonese and Portugeuse. It's a very walkable city, although the numerous hills are challenging on a hot day. The funniest thing though are the 'dog bathrooms' scattered about.",
   },
   {
+    title: "Shenzhen",
+    translation: "深圳",
+    location: "China",
+    img: "/shenzhen.webp",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/Shenzhen,+Guangdong+Province,+China/@22.55516007,114.05387751,83.76628774a,68799.3974141d,35y,0h,0t,0r/data=CigiJgokCXMktY9B8kNAEXEktY9B8kPAGSbWwrXPMkhAIVcVGWQ6yFDA",
+    coordinates: "22°32′29″N 114°03′35″E",
+    year: "2006-2018",
+    duration: "altogether about 12 years",
+    description:
+      "Shenzhen became my beloved Chinese hometown - I even moved back home after some travels! It was a great place to meet people from all over the world and from other areas in the mainland since it's a migrant city. What started out as a collection of small villages spawned into a metropolis of around 20 million (unoffically). I loved the small town feel of the Shekou neighbourhood, where all the expats knew each other. And how you could use the extensive public transportation system to reach the giant city with it's LED-lite skyscrappers with ease.",
+    personal:
+      "I lived here for many years throughout my career as an English as a Foreign Language Teacher and real estate agent.",
+  },
+  {
+    title: "Hong Kong",
+    translation: "香港",
+    location: "Hong Kong",
+    img: "/hongkong.jpg",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/hongkong/@22.35283158,114.13948866,193.41224911a,68997.52631225d,35y,0h,0t,0r/data=CnMaSRJDCiUweDM0MDNlMmVkYTMzMjk4MGY6MHhmMDhhYjNiYWRiZWFjOTdjGTn8f-a9UTZAIbtt8M_WilxAKghob25na29uZxgCIAEiJgokCecoaby_xTdAEeBesjmlOzZAGeOycDWe4VxAIQ6XkeGsdFxA",
+    coordinates: "22°18′N 114°12′E",
+    year: "2006-2018",
+    duration: "many short 1-5 day trips over the years",
+    description:
+      "Yes, I called Hong Kong its own country! I visited it as a foreigner working in China, where I had to leave the country due to visa requirements. Everytime I crossed the border, I breeved a bref of fresh air! While I loved living in China, it was a relief to visit a city-state that was Westernized. I loved the pub culture, hanging out on the TST waterfront, taking the Star Ferry, and visiting Lantao Island.",
+  },
+  {
     title: "Chengdu",
     translation: "成都",
     location: "China",
@@ -246,21 +246,6 @@ export default [
       "My first trip was explosive! It was during the Chinese New Year and I was able to set off a firework from a mortar shell. I did get a little burnt, but thankfully I was wearing a thick winter coat. I met so many cool people on that trip, that I went back. The second trip was full of laughter. First I was meeting 2 friends there, and although we all arrived at about the same time, we didn't find each other at the hotel for hours. The proprietor was trying to get us all to pay for an individual room! I also have good memories of singing along with Elvis Presley songs and my friend getting sung 'Happy Birthday!' to (not his birthday) at the Hooters after we finally found each other that night.",
   },
   {
-    title: "Wuhan",
-    translation: "武汉",
-    location: "China",
-    img: "/wuhan.jpg",
-    googleMapsUrl:
-      "https://earth.google.com/web/search/wuhan/@30.56811634,114.30038817,12.17504694a,64076.15670928d,35y,0h,0t,0r/data=CnAaRhJACiUweDM0MmVhZWY4ZGQ4NWYyNmY6MHgzOWMyYzlhYzZjNTgyMjEwGVbh4By_lz5AIajGSzeJk1xAKgV3dWhhbhgCIAEiJgokCeMyeAu4lT9AEV5-YUls3D5AGdpl1dNfhV5AIYa9hGimN15A",
-    coordinates: "30°35′36″N 114°18′17″E",
-    year: "2004-2005",
-    duration: "1 school year",
-    description:
-      "Yes, I lived in the city at the center of the pandemic! But, don't worry, I moved away in 2005. This was my first Chinese city, one that straddles the Yangtze River. It was also the place where I really realized how many people there are in China! I went to the Walmart one Saturday. First big difference was that it was on multiple floors. I remember feeling claustrophobic and walking around and around the fourth floor desperately looking for an exit!",
-    personal:
-      "My first job as an English as a Foreign Language Teacher was a Hubei University teaching History, and English. I remember my first day as a teacher... I walked into the classroom with 30 eager students and thought: 'What the @#*!$ did I get myself into?'",
-  },
-  {
     title: "Beijing",
     translation: "北京",
     location: "China",
@@ -284,6 +269,21 @@ export default [
     year: "2005",
     duration: "1 week",
     description:
-      "This was The China I had always imagined! The karst mountains around town and ever present fog were stunning. ",
+      "This was The China I had always imagined! The karst mountains around town and ever present fog were stunning. This town is a mecca for foreigners, because of all the Western food restaurants and the authentic small town feel. I even saw a local fishing with a cormorant!",
+  },
+  {
+    title: "Wuhan",
+    translation: "武汉",
+    location: "China",
+    img: "/wuhan.jpg",
+    googleMapsUrl:
+      "https://earth.google.com/web/search/wuhan/@30.56811634,114.30038817,12.17504694a,64076.15670928d,35y,0h,0t,0r/data=CnAaRhJACiUweDM0MmVhZWY4ZGQ4NWYyNmY6MHgzOWMyYzlhYzZjNTgyMjEwGVbh4By_lz5AIajGSzeJk1xAKgV3dWhhbhgCIAEiJgokCeMyeAu4lT9AEV5-YUls3D5AGdpl1dNfhV5AIYa9hGimN15A",
+    coordinates: "30°35′36″N 114°18′17″E",
+    year: "2004-2005",
+    duration: "1 school year",
+    description:
+      "Yes, I lived in the city at the center of the pandemic! But, don't worry, I moved away in 2005. This was my first Chinese city, one that straddles the Yangtze River. It was also the place where I really realized how many people there are in China! I went to the Walmart one Saturday. First big difference was that it was on multiple floors. I remember feeling claustrophobic and walking around and around the fourth floor desperately looking for an exit!",
+    personal:
+      "My first job as an English as a Foreign Language Teacher was a Hubei University teaching History, and English. I remember my first day as a teacher... I walked into the classroom with 30 eager students and thought: 'What the @#*!$ did I get myself into?'",
   },
 ];
