@@ -10,7 +10,7 @@ export default [
     year: "2010",
     duration: "5-6 days",
     description:
-      "Known as the Hawaii of Korea, it definitely lived up to its name! My husband, at the time, and I found a gorgeous little cove and enjoyed the black beef Korean BBQ.",
+      "Known as the Hawaii of Korea, it definitely lives up to its name! My husband, at the time, and I found a gorgeous little cove and enjoyed the black beef Korean BBQ. This was also the first time I could afford to pay for a resort vacation by myself.",
   },
   {
     title: "seaside beach",
@@ -101,7 +101,7 @@ export default [
     year: "2009",
     duration: "3-7 days",
     description:
-      "Coming to this city after living for a spell in my hometown in Canada, felt so good! I had missed Asia's vibrant and enormous cities. I was reunited with my husband after a few month's absence. Having new cuisines available was so much fun, as well as staying in a 'Love Hotel!'",
+      "Coming to this city after living for a spell in my hometown in Canada, felt so good! I had missed Asia's vibrant and enormous cities. I was reunited with my husband after a few month's absence. Having new cuisines available was so much fun, as well as staying in a 'Love Hotel!' 🤣",
   },
   {
     title: "Ilkley",
@@ -127,7 +127,7 @@ export default [
     year: "2008",
     duration: "numerous day trips",
     description:
-      "The best day was when I just wandered about and found Kirkstall Abbey. Here were the ruins that I'd wanted to see as a child learning history! That day also included a couple humourous elements. While bus hopping, I kept seeing this one woman throwing her shoes at passers-by. And I got helplessly lost. Passing a sign saying I was halfway between Edinburgh and London did not help!",
+      "The best day was when I just wandered about and found Kirkstall Abbey. Here were the ruins that I'd wanted to see as a child learning history! That day also included a couple humourous elements. While bus hopping, I kept seeing this one woman throwing her shoes at passers-by. Seriously, I must have seen her 3 times! And I got helplessly lost. Passing a sign saying I was halfway between Edinburgh and London did not help!",
   },
   {
     title: "Blackpool",
@@ -156,7 +156,7 @@ export default [
   {
     title: "York",
     location: "England",
-    img: "/york.webp",
+    img: "/york.png",
     googleMapsUrl:
       "https://earth.google.com/web/search/York,+UK/@53.95859682,-1.08059562,12.66506314a,10946.38084535d,35y,0h,0t,0r/data=CnMaSRJDCiUweDQ4NzhjMzQwZTE5ODY1ZjE6MHg0Nzc0YWI4OThhNTRlNGQxGRuastMP-0pAIZ8jTRe9LvG_KghZb3JrLCBVSxgCIAEiJgokCePfDss-A0tAEf2Mr303-0pAGcoJoNrjPfe_IZzdk8X6rvm_",
     coordinates: "53.960106°N 1.078017°W",
@@ -181,7 +181,7 @@ export default [
   {
     title: "Macau",
     translation: "澳门",
-    location: "autonomous region of China",
+    location: "Autonomous region of China",
     img: "/macau.jpg",
     googleMapsUrl:
       "https://earth.google.com/web/search/macau/@22.16183201,113.57015267,6.51469553a,17230.38440428d,35y,0h,0t,0r/data=CnAaRhJACiUweDM0MDE3YWUwZTIzNWM4ZjM6MHhjNjdiZTMyY2I0ODVhY2Y2GVc-y_PgMjZAIVoLs9DOYlxAKgVtYWNhdRgCIAEiJgokCetkxKis_kpAEVLz9F649kpAGVF9Lya3FPC_Ifkkm699f_K_",
@@ -189,7 +189,7 @@ export default [
     year: "2007-2008",
     duration: "2 short trips",
     description:
-      "Simply the most exotic place I've ever been! This former Portugeuse colony has gorgeous buildings, tiled pavements, and street names mixing Cantonese and Portugeuse. It's a very walkable city, although the numerous hills are challenging on a hot day. The funniest thing though are the 'dog bathrooms' scattered about.",
+      "Simply the most exotic place I've ever been! This former Portuguese colony has gorgeous buildings, tiled pavements, and street names mixing Cantonese and Portuguese. It's a very walkable city, although the numerous hills are definitely challenging on a hot day. The funniest thing though are the 'dog bathrooms' scattered about.",
   },
   {
     title: "Shenzhen",
@@ -204,7 +204,7 @@ export default [
     description:
       "Shenzhen became my beloved Chinese hometown - I even moved back home after some travels! It was a great place to meet people from all over the world and from other areas in the mainland since it's a migrant city. What started out as a collection of small villages spawned into a metropolis of around 20 million (unoffically). I loved the small town feel of the Shekou neighbourhood, where all the expats knew each other. And how you could use the extensive public transportation system to reach the giant city with it's LED-lite skyscrappers with ease.",
     personal:
-      "I lived here for many years throughout my career as an English as a Foreign Language Teacher and real estate agent.",
+      "I lived here for many years throughout my career as an English as a Foreign Language Teacher and even worked in marketing and as a real estate agent.",
   },
   {
     title: "Hong Kong",
@@ -215,9 +215,9 @@ export default [
       "https://earth.google.com/web/search/hongkong/@22.35283158,114.13948866,193.41224911a,68997.52631225d,35y,0h,0t,0r/data=CnMaSRJDCiUweDM0MDNlMmVkYTMzMjk4MGY6MHhmMDhhYjNiYWRiZWFjOTdjGTn8f-a9UTZAIbtt8M_WilxAKghob25na29uZxgCIAEiJgokCecoaby_xTdAEeBesjmlOzZAGeOycDWe4VxAIQ6XkeGsdFxA",
     coordinates: "22°18′N 114°12′E",
     year: "2006-2018",
-    duration: "many short 1-5 day trips over the years",
+    duration: "many short trips over the years",
     description:
-      "Yes, I called Hong Kong its own country! I visited it as a foreigner working in China, where I had to leave the country due to visa requirements. Everytime I crossed the border, I breeved a bref of fresh air! While I loved living in China, it was a relief to visit a city-state that was Westernized. I loved the pub culture, hanging out on the TST waterfront, taking the Star Ferry, and visiting Lantao Island.",
+      "Yes, I called Hong Kong its own country! I visited it as a foreigner working in China, where I had to leave the country due to visa requirements. Everytime I crossed the border, I breathed a breath of fresh air! While I loved living in China, it was a relief to visit a city-state that was Westernized. I loved the pub culture, hanging out on the TST waterfront, taking the Star Ferry, and visiting Lamma Island.",
   },
   {
     title: "Zhuhai",
@@ -230,7 +230,7 @@ export default [
     year: "2006",
     duration: "day trip",
     description:
-      "I went here for a little beach time in February - yes, February! It was semi-warm enough to go swimming - even if we all got colds afterward.",
+      "I went here for a little beach time in February - yes, February! It was semi-warm enough to go swimming - even if we all got colds afterward. 🤧",
   },
   {
     title: "Zhongshan",
@@ -258,7 +258,7 @@ export default [
     year: "2005",
     duration: "1 week",
     description:
-      "This was the furthest West I got in China. It even had an awesome market with many Tibetan stalls! It had the most laidback vibe of any Chinese city I've been to. I loved the juxtaposition between the still-standing and preserved ancient buildings and modern skyscrappers. It's a must go for anyone that wants to see pandas thanks to the nearby research center. You can even get a picture taken with a Giant Panda beside you on a couch.",
+      "This was the furthest West I got in China. It had an awesome market with many Tibetan stalls! It had the most laidback vibe of any Chinese city I've been to. I loved the juxtaposition between the still-standing and preserved ancient buildings and modern skyscrappers. It's a must go for anyone that wants to see pandas thanks to the nearby research center. You can even get a picture taken with a Giant Panda beside you on a couch. 🐼",
   },
   {
     title: "Leshan",
@@ -284,7 +284,7 @@ export default [
     year: "2005",
     duration: "overnight trips",
     description:
-      "I can only say I saw this city once in daylight after a long, long night of partying. Two friends from my teacher group were hired to dance at a night club here, which resulted in VIP treatment for the rest of us.",
+      "I can only say I saw this city once in daylight - after a long, long night of partying. Two friends from my teacher group were hired to dance at a night club, which resulted in VIP treatment for the rest of us.",
   },
   {
     title: "Shanghai",
@@ -310,7 +310,7 @@ export default [
     year: "2005",
     duration: "1 week",
     description:
-      "It is a must-see, so I did, but was definitely not my favourite place in China. I did see all the sites though, like the Forbidden City (and was disappointed the Starbucks was closed), The Summer Palace (where I joined all the other tourists climbing the sign saying don't skate on the ice to skate on the ice), and, of course, The Great Wall. I kept running up and up and up, but could never reach the top! I also got my picture taken beside the 'Now you are a real man' sign and thus became a real man.",
+      "It is a must-see, so I did, but was definitely not my favourite place in China. I did see all the sites though, like the Forbidden City (and was disappointed the Starbucks was closed), The Summer Palace (where I joined all the other tourists climbing the sign saying don't skate on the ice to skate on the ice), and, of course, The Great Wall. I kept running up and up and up, but could never reach the top! I also got my picture taken beside the 'Now you are a real man' sign and thus became a real man. 💪🏼",
   },
   {
     title: "Yangshou",
@@ -323,7 +323,7 @@ export default [
     year: "2005",
     duration: "1 week",
     description:
-      "This was The China I had always imagined! The karst mountains around town and ever present fog were stunning. This town is a mecca for foreigners, because of all the Western food restaurants and the authentic small town feel. I even saw a local fishing with a cormorant!",
+      "This was 'The China' I had always imagined! The karst mountains around town and ever present fog were stunning. This town is a mecca for foreigners, because of all the Western food and the authentic small town feel. I even saw a local fishing with a cormorant!",
   },
   {
     title: "Sanya",
@@ -336,7 +336,7 @@ export default [
     year: "2005",
     duration: "1 week",
     description:
-      "Sanya was a tropical paradise and the first resort I ever stayed in. I got a discount for the brand-new Marriot Resort, so 5 of us shared the price of one room! For some reason, they tried to give us 5 pots of honey. I still remember the poor staff member saying, 'But you must take the honey!'",
+      "Sanya was a tropical paradise and the first resort I ever stayed in. I got a discount for a brand-new resort, so 5 of us shared the price of one room! For some reason, they tried to give us 5 pots of honey. I still remember the poor staff member saying, 'But you must take the honey!'",
   },
   {
     title: "Anlu",
@@ -349,7 +349,7 @@ export default [
     year: "2004",
     duration: "a weekend",
     description:
-      "This was really a tiny city. A friend and I got off at the wrong bus stop and were completely lost... Fortunately a village helped by leading us to the only other foreigner in town!",
+      "This was really a tiny city. A friend and I got off at the wrong bus stop and were completely lost... Fortunately a villager helped by leading us to the only other foreigner in town!",
   },
   {
     title: "Yichang",
@@ -362,7 +362,7 @@ export default [
     year: "2004",
     duration: "1 week",
     description:
-      "I was privileged enough to visit this area before the flooding caused by the Three Gorges Dam. I took a cruise along it and got to see the absolutely beautiful scenery, including this massive cave with bats flying out of it!",
+      "I was privileged enough to visit this area before the flooding caused by the Three Gorges Dam. I took a cruise and got to see the absolutely beautiful scenery, including this massive cave with bats flying about!",
   },
   {
     title: "Huanggang",
@@ -375,7 +375,7 @@ export default [
     year: "2004-2005",
     duration: "so many weekend get-togethers",
     description:
-      "While I lived in the capital of Hubei Province, many of the foreign teachers would visit each other during the weekends. This little town was probably the one I spent the most weekends away. Good memories!",
+      "When I lived in the capital of Hubei Province, many of the foreign teachers would visit each other during the weekends. This little town was probably the one I spent the most weekends away. Good memories!",
   },
   {
     title: "Wuhan",
@@ -388,7 +388,7 @@ export default [
     year: "2004-2005",
     duration: "1 school year",
     description:
-      "Yes, I lived in the city at the center of the pandemic! But, don't worry, I moved away in 2005. This was my first Chinese city, one that straddles the Yangtze River. It was also the place where I really realized how many people there are in China! I went to the Walmart one Saturday. First big difference was that it was on multiple floors. I remember feeling claustrophobic and walking around and around the fourth floor desperately looking for an exit!",
+      "Yes, I lived in the city at the center of the pandemic! But, don't worry, I moved away in 2005. This was my first Chinese city, one that straddles the Yangtze River. It was also the place where I really realized just how many people are in China! I went to the Walmart one Saturday. First big difference was that it was on multiple floors. I remember feeling claustrophobic and walking around and around the fourth floor desperately looking for an exit!",
     personal:
       "My first job as an English as a Foreign Language Teacher was a Hubei University teaching History, and English. I remember my first day as a teacher... I walked into the classroom with 30 eager students and thought: 'What the @#*!$ did I get myself into?'",
   },
@@ -415,7 +415,7 @@ export default [
     year: "2001",
     duration: "day trip",
     description:
-      "This was the first place I ever say gigantic mountains! I was in awe walking around the old down and thought the Goldenes Dachl was amazing. Climbing to the top of the City Tower gives wonderful views all around.",
+      "This was the first place I ever saw gigantic mountains! I was in awe walking around the old town and thought the Goldenes Dachl was amazing. Climbing to the top of the City Tower gives wonderful views all around.",
   },
   {
     title: "Neuschwanstein Castle",
@@ -452,7 +452,7 @@ export default [
     year: "2001",
     duration: "4 weeks",
     description:
-      "My first trip abroad, solo no less, was amazing! I had been a history lover as long as I could remember and being able to see all these sites was amazing. I went to ever museum, palace, and garden I could, while studying German in the mornings. I even discovered a love of art gallaries - you don't understand the size of the canvas until you see them in person!",
+      "My first trip abroad, solo no less, was amazing! I had been a history lover as long as I could remember and being able to see all these sites was amazing. I went to every museum, palace, and garden I could, while studying German in the mornings. I even discovered a love of art gallaries - you don't understand the size of the canvases until you see them in person!",
     personal:
       "While I didn't technically 'live' here, I'm counting it! I lived with a local family and missed the first week of my second year of Uni, so there!",
   },
@@ -466,7 +466,7 @@ export default [
     year: "childhood",
     duration: "1 week or there abouts",
     description:
-      "Like every good Canadian, I have been to Florida! I was a kid sharing the backseat with a Chow Chow, while my grandparents drove down. It was cool to see all the sites on the way. It probably was awesome to see Disney World, but my favourite memory was holding a baby goat at my aunt's. I think I was in the Keys when I saw a pelican up close. But I definitely remember being by my aunt's when I saw a crocodile/alligator. I don't care which it was; it was a left behind dinosaur!",
+      "Like every good Canadian, I have been to Florida! I was a kid sharing the backseat with a Chow Chow, while my grandparents drove down. It was cool to see all the sites on the way. It probably was awesome to see Disney World, but my favourite memory was holding a baby goat at my aunt's. I think I was in the Florida Keys when I saw a pelican up close. But I definitely remember being by my aunt's when I saw a crocodile/alligator. I don't care which it was; it was a left behind dinosaur and I had to get outta there!",
   },
   {
     title: "Niagara Falls",
