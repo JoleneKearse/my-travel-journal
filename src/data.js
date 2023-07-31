@@ -1,6 +1,7 @@
 export default [
   {
     title: "Shenzhen",
+    translation: "深圳",
     location: "China",
     img: "/shenzhen.webp",
     googleMapsUrl:
@@ -15,6 +16,7 @@ export default [
   },
   {
     title: "Hong Kong",
+    translation: "香港",
     location: "Hong Kong",
     img: "/hongkong.jpg",
     googleMapsUrl:
@@ -27,6 +29,7 @@ export default [
   },
   {
     title: "Iksan",
+    translation: "익산",
     location: "South Korea",
     img: "/iksan.webp",
     googleMapsUrl:
@@ -41,6 +44,7 @@ export default [
   },
   {
     title: "Jeonju",
+    translation: "전주",
     location: "South Korea",
     img: "/jeonju.avif",
     googleMapsUrl:
@@ -53,6 +57,7 @@ export default [
   },
   {
     title: "Daejeon",
+    translation: "대전",
     location: "South Korea",
     img: "/daejeon.jpg",
     googleMapsUrl:
@@ -64,6 +69,7 @@ export default [
   },
   {
     title: "Seoul",
+    translation: "서울",
     location: "South Korea",
     img: "/seoul.jpg",
     googleMapsUrl:
@@ -76,6 +82,7 @@ export default [
   },
   {
     title: "Incheon",
+    translation: "인천",
     location: "South Korea",
     img: "/incheon.jpg",
     googleMapsUrl:
@@ -100,6 +107,7 @@ export default [
   },
   {
     title: "Gochang Dolmen Site",
+    translation: "고창",
     location: "South Korea",
     img: "/gochang.jpg",
     googleMapsUrl:
@@ -174,6 +182,7 @@ export default [
   },
   {
     title: "Guangzhou",
+    translation: "广州",
     location: "China",
     img: "/guangzhou.webp",
     googleMapsUrl:
@@ -186,6 +195,7 @@ export default [
   },
   {
     title: "Macau",
+    translation: "澳门",
     location: "autonomous region of China",
     img: "/macau.jpg",
     googleMapsUrl:
@@ -198,6 +208,7 @@ export default [
   },
   {
     title: "Chengdu",
+    translation: "成都",
     location: "China",
     img: "/chengdu.jpg",
     googleMapsUrl:
@@ -210,6 +221,7 @@ export default [
   },
   {
     title: "Leshan",
+    translation: "乐山",
     location: "China",
     img: "/leshan.jpeg",
     googleMapsUrl:
@@ -222,6 +234,7 @@ export default [
   },
   {
     title: "Shanghai",
+    translation: "上海",
     location: "China",
     img: "/shanghai.jpg",
     googleMapsUrl:
@@ -234,6 +247,7 @@ export default [
   },
   {
     title: "Wuhan",
+    translation: "武汉",
     location: "China",
     img: "/wuhan.jpg",
     googleMapsUrl:
@@ -248,6 +262,7 @@ export default [
   },
   {
     title: "Beijing",
+    translation: "北京",
     location: "China",
     img: "/beijing.jpg",
     googleMapsUrl:
@@ -260,8 +275,9 @@ export default [
   },
   {
     title: "Yangshou",
+    translation: "阳朔",
     location: "China",
-    img: "/yangshou.webp",
+    img: "/yangshuo.webp",
     googleMapsUrl:
       "https://earth.google.com/web/search/Yangshuo,+Guilin,+Guangxi,+China/@24.84755717,110.45393173,274.14716039a,67538.49129523d,35y,0h,0t,0r/data=CosBGmESWwolMHgzNmE1YTU3ZTExOTU1MjY1OjB4NDcwYmU0NThhZWVlMDAwNRmCupIuR8c4QCGZDTLJyJ9bQCogWWFuZ3NodW8sIEd1aWxpbiwgR3Vhbmd4aSwgQ2hpbmEYAiABIiYKJAnInsklOwQ3QBGsBBvZaqA2QBlQLoW5riVbQCHtWL7G7v5aQA",
     coordinates: "24°47′N 110°30′E",

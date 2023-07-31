@@ -111,6 +111,7 @@ article > .photo {
   grid-area: img;
   object-fit: cover;
   border-radius: .5em;
+  box-shadow: .25rem .5rem 1rem #49306B;
 }
 
 article > .photo:hover {
@@ -120,14 +121,6 @@ article > .photo:hover {
 article > .place-details {
   grid-area: place-details;
 }
-
-/* .place-details-info {
-  outline: 1px solid pink;
-}
-
-.place-details-location {
-  outline: 1px solid red;
-} */
 
 .place-details > div {
   margin-bottom: 1em;
