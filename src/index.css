@@ -50,6 +50,11 @@ img {
   font-size: clamp(1rem, 0.8333rem + 0.6667vw, 1.5rem);
 }
 
+.intro {
+  font-weight: 600;
+  text-align: center;
+}
+
 .location-title {
   font-family: 'Caprasimo', cursive;
   font-size: clamp(1.5rem, 1.1667rem + 1.3333vw, 2.5rem);
@@ -100,6 +105,24 @@ main {
   width: 70%;
   margin-inline: auto;
   padding: 3em 0;
+}
+
+.intro-section {
+  display: grid;
+  grid-template: 
+    "img text";
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  margin-bottom: 3em;
+  padding-bottom: 3em;
+  border-bottom: .5rem solid var(--clr-green-300);
+}
+
+.intro-section-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
 }
 
 article {
@@ -156,6 +179,10 @@ article > .place-details {
   width: 1.75em;
 }
 
+.traveller {
+  border-radius: 50%;
+}
+
 .icon {
   width: 1.5em;
 }
@@ -169,3 +196,18 @@ article > .place-details {
   position: absolute;
   margin-left: -1.5em;
 }
+
+.intro-section {
+  position: relative;
+}
+
+.world {
+  width: 5em;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-left: -2em;
+  transform: translateY(-50%);
+}
+
+

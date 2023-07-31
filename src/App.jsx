@@ -1,4 +1,5 @@
 import NavBar from "./components/NavBar"
+import Intro from "./components/Intro"
 import Card from "./components/Card"
 import data from "./data"
 
@@ -17,6 +18,7 @@ function App() {
     <>
       <NavBar />
       <main>
+        <Intro />
         {cards}
       </main>
     </>
