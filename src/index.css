@@ -6,6 +6,8 @@
   --clr-purple-700: #624191;
   --clr-purple-900: #49306B;
   --clr-blue-400: #38AFBC;
+  --gap-sm: 1em;
+  --gap-med: 3em;
 
   color-scheme: light dark;
 
@@ -95,8 +97,8 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1em;
-  padding: 1em 0;
+  gap: var(--gap-sm);
+  padding: var(--gap-sm) 0;
   background-color: var(--clr-purple-900);
   color: var(--clr-neutral-100)
 }
@@ -104,7 +106,7 @@ nav {
 main {
   width: 70%;
   margin-inline: auto;
-  padding: 3em 0;
+  padding: var(--gap-med) 0;
 }
 
 .intro-section {
@@ -114,24 +116,25 @@ main {
   justify-content: center;
   align-items: center;
   gap: 2em;
-  margin-bottom: 3em;
-  padding-bottom: 3em;
+  margin-bottom: var(--gap-med);
+  padding-bottom: var(--gap-med);
   border-bottom: .5rem solid var(--clr-green-300);
 }
 
 .intro-section-text {
   display: flex;
   flex-direction: column;
-  gap: 1em;
+  gap: var(--gap-sm);
 }
 
 article {
   display: grid;
-  grid-template: "img img place-details place-details place-details"; 
+  grid-template: 
+    "img img place-details place-details place-details"; 
   grid-template-columns: repeat(5, 1fr);
   justify-content: center;
   align-items: center;
-  gap: 2em;
+  gap: var(--gap-med);
   margin-bottom: 3.5em;
 }
 
@@ -152,7 +155,7 @@ article > .place-details {
 }
 
 .place-details > div {
-  margin-bottom: 1em;
+  margin-bottom: var(--gap-sm);
 }
 
 .place-details-location {
@@ -163,7 +166,7 @@ article > .place-details {
 
 .place-details-itinerary-details {
   display: flex;
-  gap: 1em;
+  gap: var(--gap-sm);
 }
 
 .personal-details {
@@ -181,6 +184,7 @@ article > .place-details {
 
 .traveller {
   border-radius: 50%;
+  box-shadow: .25rem .5rem 4rem #49306B;
 }
 
 .icon {
