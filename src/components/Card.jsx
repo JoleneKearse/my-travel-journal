@@ -15,7 +15,7 @@ const Card = (props) => {
             <p className="location">{props.travel.location}</p>
             <a href={props.travel.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="place-details-location-link">{props.travel.coordinates}</a>
           </div>
-          <h2 className="location-title">{props.travel.title}<span>   {props.travel.translation}</span></h2>
+          <h2 className="location-title">{props.travel.title}<span className="translation">   {props.travel.translation}</span></h2>
         </div>
 
         <div className="place-details-itinerary">

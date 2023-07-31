@@ -74,6 +74,11 @@ img {
   color: var(--clr-green-400);
 }
 
+.translation {
+  font-size: clamp(1rem, 0.75rem + 1vw, 1.75rem);
+  color: var(--clr-green-400);
+}
+
 .place-details-itinerary-details > p {
   font-size: clamp(1.1rem, 0.9667rem + 0.5333vw, 1.5rem);
   font-weight: 600;
@@ -112,6 +117,7 @@ article > .photo {
   object-fit: cover;
   border-radius: .5em;
   box-shadow: .25rem .5rem 1rem #49306B;
+  transition: transform ease-in-out 1s;
 }
 
 article > .photo:hover {
