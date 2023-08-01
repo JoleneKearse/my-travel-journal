@@ -213,6 +213,7 @@ footer {
 }
 
 .traveller {
+  max-width: 500px;
   border-radius: 50%;
   box-shadow: .25rem .5rem 4rem #49306B;
 }

@@ -2,11 +2,12 @@
 
 import pin from "/location.png"
 import house from "/home.png"
+import { LazyLoadImage } from "react-lazy-load-image-component"
 
 const Card = (props) => {
   return (
     <article>
-      <img src={props.travel.img} className="photo" alt="photo" />
+      <LazyLoadImage src={props.travel.img} className="photo" alt="photo" />
       <img src={props.travel.flag} className="flag" alt="" />
 
       <div className="place-details">
