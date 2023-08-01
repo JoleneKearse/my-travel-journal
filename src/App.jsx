@@ -2,6 +2,7 @@ import NavBar from "./components/NavBar"
 import Intro from "./components/Intro"
 import Card from "./components/Card"
 import data from "./data"
+import Footer from "./components/Footer"
 
 function App() {
   const cards = data.map(travel => {
@@ -21,6 +22,7 @@ function App() {
         <Intro />
         {cards}
       </main>
+      <Footer />
     </>
   )
 }
