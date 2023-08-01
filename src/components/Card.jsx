@@ -21,7 +21,7 @@ const Card = (props) => {
 
         <div className="place-details-itinerary">
           <div className="place-details-itinerary-details">
-            <p>{props.travel.year}</p>
+            <p className="year">{props.travel.year}</p>
             <p>{props.travel.duration}</p>
           </div>
           <p>{props.travel.description}</p>
