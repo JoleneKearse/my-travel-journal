@@ -18,8 +18,9 @@ function App() {
   return (
     <>
       <NavBar />
+      <Intro />
       <main>
-        <Intro />
+        
         {cards}
       </main>
       <Footer />
